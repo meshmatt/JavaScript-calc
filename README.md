@@ -1,2 +1,2 @@
 # JavaScript-calc
-https://github.com/meshmatt/JavaScript-calc.git
+https://meshmatt.github.io/JavaScript-calc.github.io/
